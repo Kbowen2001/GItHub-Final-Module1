@@ -86,6 +86,14 @@
  text-shadow: 1px 1px #4b4b4b;
 }
 
+
+.cardpink img {
+  width: 100%;
+  aspect-ratio: 70/90;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
 /*footer*/
 
 
